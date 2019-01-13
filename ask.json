@@ -1,0 +1,139 @@
+{
+    "questions": [
+        {
+            "number":"1",
+            "question":"Numero de planetas del sistema solar es ...",
+            "ask":[
+                {"planeta1":"8", "img":"", "status":"Correcta"},
+                {"planeta2":"3", "img":"a", "status":"Incorrecta"},
+                {"planeta3":"9", "img":"a", "status":"Incorrecta"}
+        ]
+        },
+        {
+            "number":"2",
+            "question":"¿Cuál es el planeta más caliente del sistema solar es ...",
+            "ask":[
+                {"planeta1":"Venus", "img":"", "status":"Correcta"},
+                {"planeta2":"Pluton", "img":"a", "status":"Incorrecta"},
+                {"planeta3":"Mercurio", "img":"a", "status":"Incorrecta"}
+        ]
+        },
+        {
+            "number":"3",
+            "question":"El planeta mas lejano al sol es ...",
+            "ask":[
+                {"planeta1":"Pluton", "img":"a", "status":"Incorrecta"},
+                {"planeta2":"Jupiter", "img":"a", "status":"Incorrecta"},
+                {"planeta3":"Neptuno", "img":"", "status":"Correcta"}
+        ]
+        },
+        {
+            "number":"4",
+            "question":"El planeta que posee multiples anillos a su alrededor es...",
+            "asks":[
+                {"planeta":"Pluton", "img":"a", "status":"Incorrecta"},
+                {"planeta":"Saturno", "img":"", "status":"Correcta"},
+                {"planeta":"Urano", "img":"a", "status":"Incorrecta"}
+        ]
+        },
+        {
+            "number":"5",
+            "question":"El Astro predominante en nuestro sistem solar es ...",
+            "ask":[
+                {"planeta1":"Sol", "img":"", "status":"Correcta"},
+                {"planeta2":"Luna", "img":"a", "status":"Incorrecta"},
+                {"planeta3":"Asteroides", "img":"a", "status":"Incorrecta"}
+        ]
+        },
+        {
+            "number":"6",
+            "question":"Astro del sistema solar cuya luz es artificial ... ",
+            "ask":[
+                {"planeta1":"Sol", "img":"a", "status":"Incorrecta"},
+                {"planeta2":"saturno", "img":"a", "status":"Incorrecta"},
+                {"planeta3":"Luna", "img":"", "status":"Correcta"}
+        ]
+        },
+        {
+            "number":"7",
+            "question":"Planeta mas pequeño del sistema solar...",
+            "ask":[
+                {"planeta1":"Mercurio", "img":"", "status":"Correcta"},
+                {"planeta2":"Saturno", "img":"a", "status":"Incorrecta"},
+                {"planeta3":"Neptuno", "img":"a", "status":"Incorrecta"}
+        ]
+        },
+        {
+            "number":"8",
+            "question":"A que planeta se le denomina el planeta rojo",
+            "ask":[
+                {"planeta1":"Saturno", "img":"a", "status":"Incorrecta"},
+                {"planeta2":"Marte", "img":"", "status":"Correcta"},
+                {"planeta3":"Nepturno", "img":"a", "status":"Incorrecta"}
+        ]
+        },
+        {
+            "number":"9",
+            "question":"¿Cuál de los planetas tarda más en dar la vuelta al Sol?",
+            "ask":[
+                {"planeta1":"Neptuno", "img":"", "status":"Correcta"},
+                {"planeta2":"Plutón", "img":"a", "status":"Incorrecta"},
+                {"planeta3":"Sol", "img":"a", "status":"Incorrecta"}
+        ]
+        },
+        {
+            "number":"10",
+            "question":"¿Cuáles son los planetas rocosos del sistema solar?",
+            "ask":[
+                {"planeta1":"Mercurio, Venus, la Tierra y Marte", "img":"", "status":"Correcta"},
+                {"planeta2":"Saturno, Mercurio, Urano", "img":"a", "status":"Incorrecta"},
+                {"planeta3":"Venus, Tierra y Plutón", "img":"a", "status":"Incorrecta"}
+        ]
+        },
+        {
+            "number":"11",
+            "question":"¿Cuáles son los planetas gaseosos del sistema solar?",
+            "ask":[
+                {"planeta1":"Mercurio, Venus, la Tierra y Marte", "img":"a", "status":"Incorrecta"},
+                {"planeta2":"Venus, Tierra y Plutón", "img":"a", "status":"Incorrecta"},
+                {"planeta3":"Júpiter , Saturno , Urano y Neptuno", "img":"", "status":"Correcta"}
+        ]
+        },
+        {
+            "number":"12",
+            "question":"¿Cuál es el objeto más grande del sistema solar?",
+            "ask":[
+                {"planeta1":"El Sol", "img":"", "status":"Correcta"},
+                {"planeta2":"La Tierra ", "img":"a", "status":"Incorrecta"},
+                {"planeta3":"Los asteroides", "img":"a", "status":"Incorrecta"}
+        ]
+        },
+        {
+            "number":"13",
+            "question":"¿Cuál es el planeta más grande del Sistema Solar",
+            "ask":[
+                {"planeta1":"Jupiter", "img":"", "status":"Correcta"},
+                {"planeta2":"Neptuno", "img":"a", "status":"Incorrecta"},
+                {"planeta3":"Urano", "img":"a", "status":"Incorrecta"}
+        ]
+        },
+        {
+            "number":"14",
+            "question":"¿Cuál es el planeta más cercano del Sol",
+            "ask":[
+                {"planeta1":"Neptuno", "img":"a", "status":"Incorrecta"},
+                {"planeta2":"Mercurio ", "img":"", "status":"Correcta"},
+                {"planeta3":"Venus", "img":"a", "status":"Incorrecta"}
+        ]
+        },
+        {
+            "number":"15",
+            "question":"¿Cuál es el planeta más frío del sistema solar",
+            "ask":[
+                {"planeta1":"Saturno", "img":"a", "status":"Incorrecta"},
+                {"planeta2":"Neptuno", "img":"", "status":"Correcta"},
+                {"planeta3":"Venus", "img":"a", "status":"Incorrecta"}
+        ]
+        }
+    ]
+}
